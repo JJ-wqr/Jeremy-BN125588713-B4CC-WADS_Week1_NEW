@@ -32,4 +32,4 @@ Aladi, C. C. (2024). Web application security: A pragmatic exposé.
     (images/dtrap-2023-0045-f02.jpg)
 
     .
-    
+    .
