@@ -34,4 +34,4 @@ Aladi, C. C. (2024). Web application security: A pragmatic exposé.
     .
     .
     .
-    ..
+    ...
